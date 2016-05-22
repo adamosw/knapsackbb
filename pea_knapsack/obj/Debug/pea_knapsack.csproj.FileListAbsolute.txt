@@ -1,0 +1,27 @@
+c:\users\adam\documents\visual studio 2015\Projects\pea_knapsack\pea_knapsack\bin\Debug\pea_knapsack.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\pea_knapsack\pea_knapsack\bin\Debug\pea_knapsack.exe
+c:\users\adam\documents\visual studio 2015\Projects\pea_knapsack\pea_knapsack\bin\Debug\pea_knapsack.pdb
+c:\users\adam\documents\visual studio 2015\Projects\pea_knapsack\pea_knapsack\obj\Debug\pea_knapsack.exe
+c:\users\adam\documents\visual studio 2015\Projects\pea_knapsack\pea_knapsack\obj\Debug\pea_knapsack.pdb
+C:\Users\Adam\documents\visual studio 2015\Projects\pea_knapsack\pea_knapsack\obj\Debug\pea_knapsack.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\PEA_WTOREK\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.exe.config
+C:\Users\Adam\Desktop\PEA_WTOREK\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.exe
+C:\Users\Adam\Desktop\PEA_WTOREK\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.pdb
+C:\Users\Adam\Desktop\PEA_WTOREK\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.exe
+C:\Users\Adam\Desktop\PEA_WTOREK\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.pdb
+C:\Users\Adam\Desktop\PEA_WTOREK\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.csprojResolveAssemblyReference.cache
+D:\Adam\Dokumenty\Semestr 5\PEA Lab\PEA_WTOREK\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.exe.config
+D:\Adam\Dokumenty\Semestr 5\PEA Lab\PEA_WTOREK\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.exe
+D:\Adam\Dokumenty\Semestr 5\PEA Lab\PEA_WTOREK\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.pdb
+C:\Users\Adam\Desktop\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.exe.config
+C:\Users\Adam\Desktop\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.exe
+C:\Users\Adam\Desktop\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.pdb
+C:\Users\Adam\Desktop\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.exe
+C:\Users\Adam\Desktop\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.pdb
+C:\Users\Adam\Desktop\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\newfodler\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.exe.config
+C:\Users\Adam\Desktop\newfodler\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.exe
+C:\Users\Adam\Desktop\newfodler\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.pdb
+C:\Users\Adam\Desktop\newfodler\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.exe
+C:\Users\Adam\Desktop\newfodler\pea_knapsack_final\pea_knapsack\bin\Debug\pea_knapsack.pdb
+C:\Users\Adam\Desktop\newfodler\pea_knapsack_final\pea_knapsack\obj\Debug\pea_knapsack.csprojResolveAssemblyReference.cache
